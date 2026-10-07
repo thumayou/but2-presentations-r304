@@ -60,7 +60,7 @@
 
 | State             |  Documentation    |  
 | :---              |  :---:            |  
-|Automne 2026       | [présentation](./2026/presentation/design.pdf)  - [live_coding](lien_vers_votre_video_youtube) - [QCM](./2026/qcm/designQcm.pdf) - [fiche résumé](./2026/resume/designResume.pdf)|  
+|Automne 2026       | [présentation](./2026/presentation/Etat.pdf)  - [live_coding](https://www.youtube.com/watch?v=rBxRitICr_o) - [QCM](./2026/qcm/EtatQCM.pdf) - [fiche résumé](./2026/resume/EtatResume.pdf)|  
 |Automne 2025       | [présentation](./2025/presentation/state.pdf)  - [live_coding](https://youtu.be/lAqCu-WOMZQ) - [QCM](./2025/qcm/stateQcm.pdf) - [fiche résumé](./2025/resume/stateResume.pdf)|
 |Automne 2024       | [présentation](./2024/presentation/state.pdf)  - [live_coding](https://www.youtube.com/watch?v=c78Uzo8vYwI) - [QCM](./2024/qcm/stateQcm.pdf) - [fiche résumé](./2024/resume/stateResume.pdf)|
 
